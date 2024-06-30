@@ -1,3 +1,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/FtVim/starter/
+[submodule "FtVim-starter"]
+	path = FtVim-starter
+	url = https://github.com/TuTaRdrgZ/FtVim-starter
